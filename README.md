@@ -8,5 +8,4 @@
 4. Запустить миграцию python manage.py makemigrations
 5. Мигрировать python manage.py migrate
 6. Загрузить данные python manage.py loaddata data.json
-7. Запустить проект командой python manage.py runserver
-admin/admin
+7. Запустить проект командой python manage.py runserver админка:admin/admin
